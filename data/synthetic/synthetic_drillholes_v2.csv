@@ -1,0 +1,4 @@
+drillhole_id,x_coord,y_coord,depth_meters,azimuth,dip_deg,campaign
+DH005,145.90,-31.46,210,95,-58,CAMP_B
+DH006,145.97,-31.53,240,120,-52,CAMP_B
+DH007,145.84,-31.51,190,100,-60,CAMP_C
