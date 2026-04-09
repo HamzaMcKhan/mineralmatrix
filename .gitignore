@@ -29,11 +29,17 @@ htmlcov/
 data/raw/*
 data/staged/*
 data/curated/*
-data/manifests/*
 !data/raw/.gitkeep
 !data/staged/.gitkeep
 !data/curated/.gitkeep
-!data/manifests/.gitkeep
+
+# keep manifests tracked
+!data/manifests/
+!data/manifests/**
+
+# optional: keep synthetic tracked
+!data/synthetic/
+!data/synthetic/**
 
 # Logs
 *.log

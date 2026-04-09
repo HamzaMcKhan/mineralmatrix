@@ -1,0 +1,17 @@
+{
+  "dataset_name": "nsw_geology",
+  "source_name": "NSW Geological Survey",
+  "source_url": "https://www.resources.nsw.gov.au/geological-survey/products-and-data/new-releases",
+  "local_path": "data/raw/geology/nsw_geology.gpkg",
+  "file_format": "gpkg",
+  "declared_crs": null,
+  "inferred_crs": null,
+  "schema_version": "v1",
+  "acquired_date": "2026-04-08",
+  "notes": "Initial placeholder manifest for Cobar AOI geology dataset.",
+  "known_issues": [
+    "Raw file not downloaded yet",
+    "CRS not yet verified",
+    "Schema not yet profiled"
+  ]
+}

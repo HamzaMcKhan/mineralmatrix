@@ -1,0 +1,17 @@
+{
+  "dataset_name": "nsw_occurrences",
+  "source_name": "NSW Geological Survey",
+  "source_url": "https://www.resources.nsw.gov.au/geological-survey/products-and-data/gis-web-services",
+  "local_path": "data/raw/mineral_occurrences/nsw_occurrences.geojson",
+  "file_format": "geojson",
+  "declared_crs": null,
+  "inferred_crs": null,
+  "schema_version": "v1",
+  "acquired_date": "2026-04-08",
+  "notes": "Initial placeholder manifest for Cobar AOI mineral occurrences dataset.",
+  "known_issues": [
+    "Raw file not downloaded yet",
+    "CRS not yet verified",
+    "Schema not yet profiled"
+  ]
+}
